@@ -124,7 +124,7 @@ select {
       font-size: 20px;
   }
   .log{
-    background-color: black;
+    background-color:#FB8500 ;
   }
   .login_sec{
       position: absolute;
@@ -136,6 +136,10 @@ select {
     width: 100%;
     height: 60px;
     float: left;
+    
+}
+.co{
+    color:orange;
 }
 
 .nav ul li{
@@ -458,6 +462,12 @@ background-color:white ;
 color:#FB8500;
 border:5px solid #FB8500; 
 
+}
+.reg{
+    text-align: right;
+    display: block;
+    color:orange;
+    text-transform: capitalize;
 }
 
 
